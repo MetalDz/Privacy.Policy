@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - ALPHA APP</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p>This Privacy Policy applies to the ALPHA APP developed by ALPHA Consulting.</p>
+
+        <h2>Information We Collect</h2>
+        <ul>
+            <li><strong>Personal Information:</strong> We may collect personal information such as your name, email address, and contact information when you voluntarily provide it to us for purposes such as creating an account or contacting customer support.</li>
+            <li><strong>Non-Personal Information:</strong> We may also collect non-personal information such as device information, operating system version, unique device identifiers, and usage statistics to improve our services and enhance user experience.</li>
+        </ul>
+
+        <h2>How We Use Your Information</h2>
+        <ul>
+            <li><strong>Providing Services:</strong> We may use the information collected to provide and personalize our services, including but not limited to delivering content, processing transactions, and improving user experience.</li>
+            <li><strong>Communications:</strong> We may use your email address to send you important updates, newsletters, promotional offers, and other relevant communications. You can opt-out of receiving such communications at any time.</li>
+            <li><strong>Analytics:</strong> We may use analytics tools to gather and analyze anonymous usage data to understand how our app is being used and to improve its performance and functionality.</li>
+        </ul>
+
+        <h2>Data Security</h2>
+        <p>We implement appropriate security measures to protect against unauthorized access, alteration, disclosure, or destruction of your personal information. However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security.</p>
+
+        <h2>Third-Party Services</h2>
+        <p>Our app may contain links to third-party websites or services that are not operated by us. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.</p>
+
+        <h2>Children’s Privacy</h2>
+        <p>Our services are not intended for individuals under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us, and we will take steps to delete such information from our systems.</p>
+
+        <h2>Changes to This Privacy Policy</h2>
+        <p>We reserve the right to update or change our Privacy Policy at any time. Any changes will be effective immediately upon posting the revised Privacy Policy on this page.</p>
+
+        <h2>Contact Us</h2>
+        <p>If you have any questions or concerns about our Privacy Policy, please contact us at <a href="mailto:alpha.consultings.dz@gmail.com">alpha.consultings.dz@gmail.com</a>.</p>
+    </div>
+</body>
+</html>
